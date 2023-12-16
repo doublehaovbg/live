@@ -163,6 +163,50 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海频道",游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png",看天下精选
+https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/华语影院.png",华语影院
+https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png",电竞天堂
+https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/青春动漫.png",青春动漫
+https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png",宝宝动画
+https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/星光影院.png",星光影院
+https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png",谍战剧场
+https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/全球大片.png",全球大片
+https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/热门剧场.png",热门剧场
+https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png",中国教育-1
+https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png",中国教育-4
+https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png",卡酷少儿
+https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png",纪实科教
+https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/茶.png",茶频道
+https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png",足球高清
+https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png",炫动卡通
+https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
+https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png",都市剧场
+https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png",动漫秀场
+https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/Z.png",法治天地
+https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png",金色学堂
+https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
+#EXTINF:-1 group-title="BESTV百事通" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png",魅力足球
+https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="海南频道",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="海南频道",海南文旅
