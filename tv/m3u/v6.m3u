@@ -289,3 +289,106 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="超清频道",纯享超清
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+
+#EXTINF:-1 group-title="影视系列",周星星
+http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",英叔护体
+http://tx-screenshots.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",沈腾专场
+http://tx-screenshots.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",成龙专场
+http://tx-screenshots.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",邓超专场
+http://tx-screenshots.flv.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",五福星
+http://tx-screenshots.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",王晶作品
+http://tx-screenshots.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",达叔在线
+http://tx-screenshots.flv.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",金庸电影
+http://tx-screenshots.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",黑帮争斗
+http://tx-screenshots.flv.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",李连杰专场
+http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",徐峥黄渤
+http://tx-screenshots.flv.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",刘德华
+http://tx-screenshots.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",喜剧
+http://tx-screenshots.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",洪金宝
+http://tx-screenshots.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",高智商
+http://tx-screenshots.flv.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",周润发
+http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",山鸡哥
+http://tx-screenshots.flv.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",周润发2
+http://tx-screenshots.flv.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",周星驰粤语
+http://tx-screenshots.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",警匪
+http://tx-screenshots.flv.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",甄子丹
+http://tx-screenshots.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",女神
+http://tx-screenshots.flv.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",许氏三杰
+http://tx-screenshots.flv.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",梁家辉
+http://tx-screenshots.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",中国功夫
+http://tx-screenshots.flv.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",周星驰粤语2
+http://tx-screenshots.flv.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",将夜
+http://tx-screenshots.flv.huya.com/src/1449580358-1449580358-6225900230533971968-2847687552-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",小时代
+http://tx-screenshots.flv.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",女神
+http://tx-screenshots.flv.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",快意江湖
+http://tx-screenshots.flv.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",玄幻
+http://tx-screenshots.flv.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",经典港剧
+http://tx-screenshots.flv.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",搞笑戏剧
+http://tx-screenshots.flv.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",动作电影
+http://tx-screenshots.flv.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",香港贺岁片
+http://tx-screenshots.flv.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",许冠英
+http://tx-screenshots.flv.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",灾难片
+http://tx-screenshots.flv.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",古墓
+http://tx-screenshots.flv.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",镖行天下
+http://tx-screenshots.flv.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",玄幻
+http://tx-screenshots.flv.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",国产悬疑
+http://tx-screenshots.flv.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",春节贺岁
+http://tx-screenshots.flv.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",赛车
+http://tx-screenshots.flv.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",悲情古装
+http://tx-screenshots.flv.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",港片追女仔
+http://tx-screenshots.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",纪念曾江
+http://tx-screenshots.flv.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",超经典喜剧
+http://tx-screenshots.flv.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",小春版韦小宝
+http://tx-screenshots.flv.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",活佛济公
+http://tx-screenshots.flv.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="影视系列",金装四大才子
+http://tx-screenshots.flv.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8
